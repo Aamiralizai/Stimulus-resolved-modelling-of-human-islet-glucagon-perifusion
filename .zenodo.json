@@ -1,0 +1,16 @@
+{
+  "title": "Stimulus-resolved modelling of human islet glucagon perifusion, analysis code and derived data",
+  "upload_type": "software",
+  "license": "MIT",
+  "access_right": "open",
+  "description": "Analysis code and derived data for a stimulus-resolved hierarchical model of human islet perifusion curves from the Human Pancreas Analysis Program. Source measurements are not redistributed and are obtained from PANC-DB under its own terms.",
+  "creators": [
+    {"name": "Fahira, Aamir"},
+    {"name": "Khan, Ishrat"},
+    {"name": "Jan, Syed Mansoor"},
+    {"name": "Wadood, Abdul"},
+    {"name": "Li, Xiaoan"},
+    {"name": "Jian, Xuemin"}
+  ],
+  "keywords": ["alpha cell", "glucagon", "human islets", "perifusion", "type 2 diabetes", "HbA1c"]
+}

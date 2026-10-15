@@ -1,0 +1,11 @@
+T2D donors	58.0
+T2D with parsed duration	47.0
+corr HbA1c vs duration (T2D, Spearman)	0.0011317525112572195
+insulin mention, T2D	1.0
+insulin mention, controls	0.0
+metformin mention, T2D	2.0
+sulfonylurea mention, T2D	0.0
+DPP4 mention, T2D	0.0
+GLP1 mention, T2D	1.0
+SGLT2 mention, T2D	0.0
+any glucose-lowering drug mention, T2D	4.0

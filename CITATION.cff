@@ -1,0 +1,61 @@
+cff-version: 1.2.0
+message: If you use this software or these derived data, please cite the article and this repository.
+title: >-
+  Stimulus-resolved modelling of human islet glucagon perifusion, analysis code
+  and derived data
+type: software
+abstract: >-
+  Analysis code and derived data for a stimulus-resolved hierarchical model of
+  human islet perifusion curves from the Human Pancreas Analysis Program, with
+  a left-censored likelihood for the assay floor, a construction null for
+  conventional perifusion traits, cross-laboratory replication, a joint
+  two-laboratory latent variable model and matched islet respirometry.
+authors:
+  - family-names: Fahira
+    given-names: Aamir
+    orcid: https://orcid.org/REPLACE-WITH-ORCID
+  - family-names: Khan
+    given-names: Ishrat
+  - family-names: Jan
+    given-names: Syed Mansoor
+  - family-names: Wadood
+    given-names: Abdul
+  - family-names: Li
+    given-names: Xiaoan
+  - family-names: Jian
+    given-names: Xuemin
+license: MIT
+version: 1.0.0
+date-released: "2026-10-15"
+repository-code: https://github.com/REPLACE-WITH-OWNER/t2d-glucagon-perifusion
+keywords:
+  - alpha cell
+  - glucagon
+  - human islets
+  - perifusion
+  - type 2 diabetes
+  - HbA1c
+  - mitochondrial respiration
+  - hierarchical model
+  - censored likelihood
+preferred-citation:
+  type: article
+  title: >-
+    Stimulus-resolved modelling reveals weaker glucose suppression of glucagon
+    with higher HbA1c in human islets
+  authors:
+    - family-names: Fahira
+      given-names: Aamir
+    - family-names: Khan
+      given-names: Ishrat
+    - family-names: Jan
+      given-names: Syed Mansoor
+    - family-names: Wadood
+      given-names: Abdul
+    - family-names: Li
+      given-names: Xiaoan
+    - family-names: Jian
+      given-names: Xuemin
+  journal: Diabetologia
+  year: 2026
+  doi: REPLACE-WITH-ARTICLE-DOI

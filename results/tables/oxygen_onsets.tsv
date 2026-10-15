@@ -1,0 +1,6 @@
+switch	searched_from	searched_to	n	onset_median	onset_q25	onset_q75
+aam	35	55	89	45.0	43.0	48.0
+glucose_3	60	95	89	75.0	71.0	81.0
+glucose_16	98	125	89	107.0	102.0	110.0
+maximal	126	148	89	135.0	133.0	139.0
+terminal fall	150	180	89	165.0	163.0	170.0

@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="532.8pt" height="345.6pt" viewBox="0 0 532.8 345.6" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-15T08:58:44.280840</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 345.6 
+L 532.8 345.6 
+L 532.8 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 169.4592 60.192 
+L 363.3408 60.192 
+Q 370.08 60.192 370.08 55.8864 
+L 370.08 21.4416 
+Q 370.08 17.136 363.3408 17.136 
+L 169.4592 17.136 
+Q 162.72 17.136 162.72 21.4416 
+L 162.72 55.8864 
+Q 162.72 60.192 169.4592 60.192 
+z
+" clip-path="url(#p9504b23589)" style="fill: #eef2f7; stroke: #c3d0de; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 24.3072 199.296 
+L 166.3488 199.296 
+Q 173.088 199.296 173.088 194.9904 
+L 173.088 104.2416 
+Q 173.088 99.936 166.3488 99.936 
+L 24.3072 99.936 
+Q 17.568 99.936 17.568 104.2416 
+L 17.568 194.9904 
+Q 17.568 199.296 24.3072 199.296 
+z
+" clip-path="url(#p9504b23589)" style="fill: #e9f1fc; stroke: #b4cdea; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 195.3792 199.296 
+L 337.4208 199.296 
+Q 344.16 199.296 344.16 194.9904 
+L 344.16 104.2416 
+Q 344.16 99.936 337.4208 99.936 
+L 195.3792 99.936 
+Q 188.64 99.936 188.64 104.2416 
+L 188.64 194.9904 
+Q 188.64 199.296 195.3792 199.296 
+z
+" clip-path="url(#p9504b23589)" style="fill: #fdf1e3; stroke: #edc89a; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 366.4512 199.296 
+L 508.4928 199.296 
+Q 515.232 199.296 515.232 194.9904 
+L 515.232 104.2416 
+Q 515.232 99.936 508.4928 99.936 
+L 366.4512 99.936 
+Q 359.712 99.936 359.712 104.2416 
+L 359.712 194.9904 
+Q 359.712 199.296 366.4512 199.296 
+z
+" clip-path="url(#p9504b23589)" style="fill: #e8f6ef; stroke: #a9d8c1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 76.1472 325.152 
+L 456.6528 325.152 
+Q 463.392 325.152 463.392 320.8464 
+L 463.392 243.3456 
+Q 463.392 239.04 456.6528 239.04 
+L 76.1472 239.04 
+Q 69.408 239.04 69.408 243.3456 
+L 69.408 320.8464 
+Q 69.408 325.152 76.1472 325.152 
+z
+" clip-path="url(#p9504b23589)" style="fill: #f4f3f0; stroke: #d2d0ca; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 8.4px; font-family: 'Arial', 'Liberation Sans', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1f3b5c" x="266.4" y="31.86263" transform="rotate(-0 266.4 31.86263)">Human Pancreas Analysis Program</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 7.6px; font-family: 'Arial', 'Liberation Sans', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #0b0b0b" x="266.4" y="51.659871" transform="rotate(-0 266.4 51.659871)">216 donors deposited in PANC-DB</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 8px; font-family: 'Arial', 'Liberation Sans', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1f3b5c" x="95.328" y="114.371419" transform="rotate(-0 95.328 114.371419)">Laboratory 1 perifusion</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 7.2px; font-family: 'Arial', 'Liberation Sans', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #0b0b0b" transform="translate(64.70775 134.037352)">161 deposited runs</text>
+    <text style="font-size: 7.2px; font-family: 'Arial', 'Liberation Sans', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #0b0b0b" transform="translate(47.89575 146.235867)">158 on the standard schedule</text>
+    <text style="font-size: 7.2px; font-family: 'Arial', 'Liberation Sans', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #0b0b0b" transform="translate(57.50775 157.011258)">134 pass quality control</text>
+    <text style="font-size: 7.2px; font-family: 'Arial', 'Liberation Sans', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #0b0b0b" transform="translate(63.308813 169.209773)">130 enter the model</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 8px; font-family: 'Arial', 'Liberation Sans', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1f3b5c" x="266.4" y="114.371419" transform="rotate(-0 266.4 114.371419)">Laboratory 2 perifusion</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 7.2px; font-family: 'Arial', 'Liberation Sans', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #0b0b0b" transform="translate(237.781687 134.037352)">97 deposited runs</text>
+    <text style="font-size: 7.2px; font-family: 'Arial', 'Liberation Sans', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #0b0b0b" transform="translate(220.969687 146.235867)">97 on the standard schedule</text>
+    <text style="font-size: 7.2px; font-family: 'Arial', 'Liberation Sans', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #0b0b0b" transform="translate(230.581687 157.011258)">92 pass quality control</text>
+    <text style="font-size: 7.2px; font-family: 'Arial', 'Liberation Sans', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #0b0b0b" transform="translate(236.38275 169.209773)">91 enter the model</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 8px; font-family: 'Arial', 'Liberation Sans', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1f3b5c" x="437.472" y="114.371419" transform="rotate(-0 437.472 114.371419)">Islet respirometry</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 7.2px; font-family: 'Arial', 'Liberation Sans', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #0b0b0b" transform="translate(406.053562 134.037352)">96 deposited traces</text>
+    <text style="font-size: 7.2px; font-family: 'Arial', 'Liberation Sans', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #0b0b0b" transform="translate(392.84775 145.524305)">7 excluded at quality control</text>
+    <text style="font-size: 7.2px; font-family: 'Arial', 'Liberation Sans', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #0b0b0b" transform="translate(411.057562 157.72282)">89 usable traces</text>
+    <text style="font-size: 7.2px; font-family: 'Arial', 'Liberation Sans', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #0b0b0b" transform="translate(391.849875 169.209773)">matched to the same donors</text>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 700; font-size: 8.4px; font-family: 'Arial', 'Liberation Sans', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1f3b5c" x="266.4" y="253.76663" transform="rotate(-0 266.4 253.76663)">Analysis samples</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 7.4px; font-family: 'Arial', 'Liberation Sans', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #0b0b0b" transform="translate(177.423672 273.352611)">112 donors, primary HbA1c association at laboratory 1</text>
+    <text style="font-size: 7.4px; font-family: 'Arial', 'Liberation Sans', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #0b0b0b" transform="translate(188.454875 285.158646)">83 donors, the same association at laboratory 2</text>
+    <text style="font-size: 7.4px; font-family: 'Arial', 'Liberation Sans', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #0b0b0b" transform="translate(204.285672 297.69601)">74 donors studied at both laboratories</text>
+    <text style="font-size: 7.4px; font-family: 'Arial', 'Liberation Sans', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #0b0b0b" transform="translate(194.419969 308.770717)">127 donors in the joint two-laboratory model</text>
+    <text style="font-size: 7.4px; font-family: 'Arial', 'Liberation Sans', 'Helvetica', 'DejaVu Sans', sans-serif; fill: #0b0b0b" transform="translate(164.402562 320.576752)">59 donors with matched respirometry and complete covariates</text>
+   </g>
+   <g id="patch_7">
+    <path d="M 266.4 61.848 
+Q 266.4 69.3 266.4 75.410359 
+" clip-path="url(#p9504b23589)" style="fill: none; stroke: #52514e; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 268.4 71.410359 
+L 266.4 75.410359 
+L 264.4 71.410359 
+z
+" clip-path="url(#p9504b23589)" style="fill: #52514e; stroke: #52514e; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 95.328 76.752 
+L 437.472 76.752 
+" clip-path="url(#p9504b23589)" style="fill: none; stroke: #52514e; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 95.328 76.752 
+Q 95.328 88.344 95.328 98.594359 
+" clip-path="url(#p9504b23589)" style="fill: none; stroke: #52514e; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 97.328 94.594359 
+L 95.328 98.594359 
+L 93.328 94.594359 
+z
+" clip-path="url(#p9504b23589)" style="fill: #52514e; stroke: #52514e; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 266.4 76.752 
+Q 266.4 88.344 266.4 98.594359 
+" clip-path="url(#p9504b23589)" style="fill: none; stroke: #52514e; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 268.4 94.594359 
+L 266.4 98.594359 
+L 264.4 94.594359 
+z
+" clip-path="url(#p9504b23589)" style="fill: #52514e; stroke: #52514e; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 437.472 76.752 
+Q 437.472 88.344 437.472 98.594359 
+" clip-path="url(#p9504b23589)" style="fill: none; stroke: #52514e; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 439.472 94.594359 
+L 437.472 98.594359 
+L 435.472 94.594359 
+z
+" clip-path="url(#p9504b23589)" style="fill: #52514e; stroke: #52514e; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 95.328 200.952 
+Q 95.328 210.06 95.328 217.826359 
+" clip-path="url(#p9504b23589)" style="fill: none; stroke: #52514e; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 97.328 213.826359 
+L 95.328 217.826359 
+L 93.328 213.826359 
+z
+" clip-path="url(#p9504b23589)" style="fill: #52514e; stroke: #52514e; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 266.4 200.952 
+Q 266.4 210.06 266.4 217.826359 
+" clip-path="url(#p9504b23589)" style="fill: none; stroke: #52514e; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 268.4 213.826359 
+L 266.4 217.826359 
+L 264.4 213.826359 
+z
+" clip-path="url(#p9504b23589)" style="fill: #52514e; stroke: #52514e; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 437.472 200.952 
+Q 437.472 210.06 437.472 217.826359 
+" clip-path="url(#p9504b23589)" style="fill: none; stroke: #52514e; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 439.472 213.826359 
+L 437.472 217.826359 
+L 435.472 213.826359 
+z
+" clip-path="url(#p9504b23589)" style="fill: #52514e; stroke: #52514e; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 95.328 219.168 
+L 437.472 219.168 
+" clip-path="url(#p9504b23589)" style="fill: none; stroke: #52514e; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 266.4 219.168 
+Q 266.4 228.276 266.4 236.042359 
+" clip-path="url(#p9504b23589)" style="fill: none; stroke: #52514e; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 268.4 232.042359 
+L 266.4 236.042359 
+L 264.4 232.042359 
+z
+" clip-path="url(#p9504b23589)" style="fill: #52514e; stroke: #52514e; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p9504b23589">
+   <rect x="7.2" y="7.2" width="518.4" height="331.2"/>
+  </clipPath>
+ </defs>
+</svg>

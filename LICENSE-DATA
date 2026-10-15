@@ -1,0 +1,13 @@
+Derived data, result tables and figures in this repository
+
+Everything under data/derived, results/tables and results/figures is released
+under the Creative Commons Attribution 4.0 International licence, CC BY 4.0.
+https://creativecommons.org/licenses/by/4.0/
+
+These files are derived from the Human Pancreas Analysis Program and are
+redistributed as summary statistics and model estimates, not as source
+measurements. The source files themselves are not redistributed here. They are
+obtained from PANC-DB under its own data use terms. See data/README.md.
+
+Attribution should cite both this repository and the Human Pancreas Analysis
+Program, as set out in CITATION.cff and in the manuscript acknowledgements.

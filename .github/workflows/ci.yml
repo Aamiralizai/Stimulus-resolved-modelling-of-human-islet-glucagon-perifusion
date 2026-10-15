@@ -1,0 +1,51 @@
+name: reproduce
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  reproduce:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+          cache: pip
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Unit tests
+        env:
+          PYTHONPATH: src
+          OMP_NUM_THREADS: "1"
+        run: pytest tests/ -q
+
+      - name: Verify the reported numbers against the result tables
+        env:
+          PYTHONPATH: src
+        run: python scripts/verify_results.py
+
+      - name: Redraw the figures from the shipped data
+        env:
+          PYTHONPATH: src
+          MPLBACKEND: Agg
+        run: |
+          python workflow/22_figure_phenotype.py
+          python workflow/23_figure_censoring.py
+          python workflow/24_figure_crosslab.py
+          python workflow/25_graphical_abstract_simple.py
+          python workflow/26_figure_workflow_simple.py
+
+      - name: Upload the redrawn figures
+        uses: actions/upload-artifact@v4
+        with:
+          name: figures
+          path: results/figures/

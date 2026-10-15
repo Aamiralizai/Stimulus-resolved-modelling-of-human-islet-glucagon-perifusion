@@ -1,0 +1,17 @@
+lab	window	fraction_first	fraction_last	n_donors	n_donors_any_censored	pct_donors_any_censored	pct_fractions_censored
+Penn	basal	1	12	158	37	23.4177	17.0359
+Penn	AA	14	43	158	22	13.9241	2.4473
+Penn	AA+G3	45	63	158	17	10.7595	1.3658
+Penn	AA+G16.7	65	83	158	13	8.2278	1.6322
+Penn	IBMX	85	103	158	11	6.962	1.0993
+Penn	wash	105	123	158	26	16.4557	8.6942
+Penn	KCl	125	140	158	4	2.5316	0.4747
+Vanderbilt	basal	1	4	97	4	4.1237	3.6082
+Vanderbilt	G16.7	5	14	97	10	10.3093	7.8351
+Vanderbilt	rec1	15	21	97	7	7.2165	4.4183
+Vanderbilt	IBMX	22	28	97	4	4.1237	1.7673
+Vanderbilt	rec2	29	31	97	5	5.1546	4.4674
+Vanderbilt	Epi	32	38	97	6	6.1856	1.9146
+Vanderbilt	rec3	39	41	97	8	8.2474	7.5601
+Vanderbilt	KCl	42	47	97	4	4.1237	2.0619
+Vanderbilt	rec4	48	50	97	6	6.1856	5.1546
