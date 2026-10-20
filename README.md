@@ -3,9 +3,7 @@
 Analysis code and derived data for the article
 
 > Stimulus-resolved modelling reveals weaker glucose suppression of glucagon
-> with higher HbA1c in human islets. *Diabetologia*, 2026.
-
-[![reproduce](https://github.com/REPLACE-WITH-OWNER/t2d-glucagon-perifusion/actions/workflows/ci.yml/badge.svg)](https://github.com/REPLACE-WITH-OWNER/t2d-glucagon-perifusion/actions/workflows/ci.yml)
+> with higher HbA1c in human islets. 
 
 Conventional perifusion summaries confound how much hormone an islet
 preparation can release with how it responds to a particular stimulus. This
@@ -24,7 +22,7 @@ not detectably account for it.
 ## Quick start
 
 ```bash
-git clone https://github.com/REPLACE-WITH-OWNER/t2d-glucagon-perifusion.git
+git clone https://github.com/Aamiralizai/Stimulus-resolved-modelling-of-human-islet-glucagon-perifusion.git
 cd t2d-glucagon-perifusion
 pip install -r requirements.txt
 
@@ -122,7 +120,4 @@ out exactly what is absent and how to rebuild it.
 See `CITATION.cff`. Please cite both the article and the Human Pancreas
 Analysis Program, which produced the underlying data.
 
-## Licence
-
-Code under MIT, see `LICENSE`. Derived data, tables and figures under
-CC BY 4.0, see `LICENSE-DATA`.
+Note: Primary HPAP data are not redistributed in this repository. They should be obtained directly from PANC-DB under the applicable data-use terms. This repository provides analysis code, derived outputs permitted for redistribution, and scripts required to reproduce the reported analyses.
